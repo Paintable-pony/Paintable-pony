@@ -1,6 +1,6 @@
 Hi, I’m THE paintable pony‼™ 👋🖌️🐎
 
-And this is my DOs ✅ and DON'Ts ❌
+And these are my DOs ✅ and DON'Ts ❌
 
 ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆
 

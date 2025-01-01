@@ -1,16 +1,16 @@
 Snowponies:
-5 - Sorbet 
-6 - See: 5
-7 - Tebros
+
+![Sorbet](https://github.com/user-attachments/assets/4d3fbbe6-3f47-4a73-9af9-e115f06bc937) ![Sorbet2](https://github.com/user-attachments/assets/3b140dbc-8800-4c1a-a055-d1cbe238b5fc) - Sorbet 
+
+![Tebros](https://github.com/user-attachments/assets/0c4dc1fa-21c7-494c-ae5d-390b7d545fc5) - Tebros
 
 Teddy Bears:
-17 - Greg
-18 - See: 17
-19 - Burnt Greg
-20 - See: 19
-21 - See: 17
-22 - See: 19
-23 - Hugh
+
+![Greg](https://github.com/user-attachments/assets/1169393d-4f4e-4170-bf24-77b627752b13) ![Greg2](https://github.com/user-attachments/assets/9730a9f6-7b07-451c-9774-f41f0512ec9e) ![Greg3](https://github.com/user-attachments/assets/a55bf836-bd81-43cb-98ac-5f820e9eaffd) - Greg
+
+![BurntGreg](https://github.com/user-attachments/assets/a18dae67-f34f-4bf9-8f03-884d9579a71e) ![BurntGreg2](https://github.com/user-attachments/assets/cfc7cced-6d84-41cc-a6ff-c43488598d9a) ![BurntGreg3](https://github.com/user-attachments/assets/223fbc49-3665-45aa-b35f-2cf4e0f6a0fb) - Burnt Greg
+
+![Hugh](https://github.com/user-attachments/assets/a7612d1a-8adf-4a49-97ad-83f0987dfd55) - Hugh
 
 Deer:
 26 - Rudolph

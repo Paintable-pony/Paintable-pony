@@ -1,63 +1,84 @@
 Snowponies:
 
-![Sorbet](https://github.com/user-attachments/assets/4d3fbbe6-3f47-4a73-9af9-e115f06bc937) ![Sorbet2](https://github.com/user-attachments/assets/3b140dbc-8800-4c1a-a055-d1cbe238b5fc) - Sorbet 
-
-![Tebros](https://github.com/user-attachments/assets/0c4dc1fa-21c7-494c-ae5d-390b7d545fc5) - Tebros
+| 5. Sorbet | 6. Sorbet | 7. Tebros |
+|---|---|---|
+| ![Sorbet](https://github.com/user-attachments/assets/4d3fbbe6-3f47-4a73-9af9-e115f06bc937) | ![Sorbet2](https://github.com/user-attachments/assets/3b140dbc-8800-4c1a-a055-d1cbe238b5fc) | ![Tebros](https://github.com/user-attachments/assets/0c4dc1fa-21c7-494c-ae5d-390b7d545fc5) |
 
 Teddy Bears:
 
-![Greg](https://github.com/user-attachments/assets/1169393d-4f4e-4170-bf24-77b627752b13) ![Greg2](https://github.com/user-attachments/assets/9730a9f6-7b07-451c-9774-f41f0512ec9e) ![Greg3](https://github.com/user-attachments/assets/a55bf836-bd81-43cb-98ac-5f820e9eaffd) - Greg
-
-![BurntGreg](https://github.com/user-attachments/assets/a18dae67-f34f-4bf9-8f03-884d9579a71e) ![BurntGreg2](https://github.com/user-attachments/assets/cfc7cced-6d84-41cc-a6ff-c43488598d9a) ![BurntGreg3](https://github.com/user-attachments/assets/223fbc49-3665-45aa-b35f-2cf4e0f6a0fb) - Burnt Greg
-
-![Hugh](https://github.com/user-attachments/assets/a7612d1a-8adf-4a49-97ad-83f0987dfd55) - Hugh
+| 17. Greg | 18. Greg | 19. Burnt Greg | 20. Burnt Greg | 21. Greg | 22. Burnt Greg | 23. Hugh |
+|---|---|---|---|---|---|---|
+| ![Greg](https://github.com/user-attachments/assets/1169393d-4f4e-4170-bf24-77b627752b13) | ![Greg2](https://github.com/user-attachments/assets/9730a9f6-7b07-451c-9774-f41f0512ec9e) | ![BurntGreg](https://github.com/user-attachments/assets/a18dae67-f34f-4bf9-8f03-884d9579a71e) | ![BurntGreg2](https://github.com/user-attachments/assets/cfc7cced-6d84-41cc-a6ff-c43488598d9a) | ![Greg3](https://github.com/user-attachments/assets/a55bf836-bd81-43cb-98ac-5f820e9eaffd) | ![BurntGreg3](https://github.com/user-attachments/assets/223fbc49-3665-45aa-b35f-2cf4e0f6a0fb) | ![Hugh](https://github.com/user-attachments/assets/a7612d1a-8adf-4a49-97ad-83f0987dfd55) |
 
 Deer:
-26 - Rudolph
-27 - See: 26
+
+| 26. Rudolph | 27. Rudolph |
+|---|---|
+| ![Rudolph](https://github.com/user-attachments/assets/7ee06e81-a3b8-4abf-ac7f-ec650a300a0f) | ![Rudolph2](https://github.com/user-attachments/assets/5b658271-29cc-4b8d-9db3-3351c2f71b78) |
 
 Penguins:
-36 - June
-37 - See: 36
-38 - See: 36
-39 - July
+
+| 36. June | 37. June | 38. June | 39. July|
+|---|---|---|---|
+| ![June](https://github.com/user-attachments/assets/3880d58e-42a4-458e-8e21-14dc1feafb7e) | ![June2](https://github.com/user-attachments/assets/50a07c37-e76c-4513-8baf-813528d60888) | ![June3](https://github.com/user-attachments/assets/8f31b917-5e50-4753-b8c7-f31a1091294f) | ![July](https://github.com/user-attachments/assets/37ccb678-fec8-423f-ac07-0bd41063326a) |
 
 Bunnies:
-40 - Kimmel
-41 - Scott
-42 - Patches
-43 - Fred
-44 - Grant
-45 - See: 40
-46 - See: 43
-47 - See: 44
-48 - See: 41
-49 - See: 42
+
+![Kimmel](https://github.com/user-attachments/assets/1a0369be-d4aa-4647-a16a-1d9ed7d79577) ![Kimmel2](https://github.com/user-attachments/assets/934172c4-815a-4466-8f13-b6c1f016c720) - Kimmel
+
+![Scott](https://github.com/user-attachments/assets/5ea68d24-5171-4255-9d46-c6d52be69923) ![Scott2](https://github.com/user-attachments/assets/03921e9a-dfbb-4a57-8e1b-903506af4ebe) - Scott
+
+![Patches](https://github.com/user-attachments/assets/d2e4d8ee-79ae-4f56-9ed1-5c4231c2db26) ![Patches2](https://github.com/user-attachments/assets/43f93dcf-0841-4685-b71d-f38ee7b90239) - Patches
+
+![Fred](https://github.com/user-attachments/assets/197155b5-7032-490c-b5f4-4b2d5d4ecfae) ![Fred2](https://github.com/user-attachments/assets/0a0d9f93-a5d2-4bab-ad0b-21c3421bf259) - Fred
+
+![Grant](https://github.com/user-attachments/assets/560c78cf-6895-4334-9374-08e0bacc2738) ![Grant](https://github.com/user-attachments/assets/07f8537f-5f72-4074-82b4-3964687b32bd) - Grant
 
 Squirrels:
-50 - Blong
-51 - Red
+
+| 50. Blong | 51. Red |
+|---|---|
+| ![Blong](https://github.com/user-attachments/assets/d177c6fa-69fb-42da-a77b-0f0964d73a23) | ![Red](https://github.com/user-attachments/assets/f23840c0-e658-4f08-b2ca-8751319f252f) |
+
+
 
 Birds 1:
-53 - Toon
-54 - Toot
-55 - Teet
-56 - Coal
-57 - Brussel
-58 - Davian
-59 - Bok
-65 - Wicker
+
+![Toon](https://github.com/user-attachments/assets/405aadb4-f023-4b09-8d93-c8f35b390174) - Toon
+
+![Toot](https://github.com/user-attachments/assets/e323f0a9-1ce6-4623-b404-15c22ff97059) - Toot
+
+![Teet](https://github.com/user-attachments/assets/636cce39-7f4e-48f1-9b2f-a63fb3c9d27a) - Teet
+
+![Coal](https://github.com/user-attachments/assets/f26e6b5a-5030-4d8c-9707-d2af7ec370f6) - Coal
+
+![Brussel](https://github.com/user-attachments/assets/8303f2f9-9a77-453d-a6bc-5446a88f66d7) - Brussel
+
+![Davian](https://github.com/user-attachments/assets/206f5588-b2a2-4b70-90c9-3db875b7466d) - Davian
+
+![Bok](https://github.com/user-attachments/assets/26e16140-b836-4cac-9ab9-2ea40f50db19) - Bok
+
+![Wicker](https://github.com/user-attachments/assets/bf2a1f19-616b-4ec0-b8f2-92bde3683f46) - Wicker
 
 Sheep:
-66 - Gorn
-67 - Wart
-68 - Jamez
-69 - Noice
-70 - Cough
-71 - Coup
-72 - Icing
-73 - [He just straight up missed this one lmao]
-74 - Kyle
+
+![Gorn](https://github.com/user-attachments/assets/971202dc-f86a-43e9-975e-c1e50aba0676) - Gorn
+
+![Wart](https://github.com/user-attachments/assets/ad67448c-19bd-48c6-9fe1-3d9a96c1af69) - Wart
+
+![Jamez](https://github.com/user-attachments/assets/e4a33531-c8b4-42e3-8931-30f3cd4656e7) - Jamez
+
+![Noice](https://github.com/user-attachments/assets/f5ddab86-dbe3-43e3-bfe1-63d1bfde2c2d) - Noice
+
+![Cough](https://github.com/user-attachments/assets/3fd68d9d-f94c-4426-aa48-ea6b45361b9e) - Cough
+
+![Coup](https://github.com/user-attachments/assets/722b7b89-9334-4f30-a063-df8d4a1962c4) - Coup
+
+![Icing](https://github.com/user-attachments/assets/fb633b2b-8b8c-4bee-a818-64c8f6ad6ed3) - Icing
+
+![image](https://github.com/user-attachments/assets/bec6d83b-ebd0-4765-9fc9-cdaab6d662d7) - 
+
+![Kyle](https://github.com/user-attachments/assets/633356f4-a556-416e-a0a2-044b0156eb09) - Kyle
 
 Pigs:
 75 - Yoinks

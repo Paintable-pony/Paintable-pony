@@ -188,9 +188,7 @@ Owls:
 
 | 193. Soot | 194. Burger | 195. Bhoo | 196. Celeste | 197. Sorren |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/4cd2fb4d-19a7-415e-a1a1-daadd84edbda)
- | ![image](https://github.com/user-attachments/assets/5e95a8d2-fdc5-4aec-8dbb-9a6992c7aacb)
- | | 196. Celeste | 197. Sorren |
+| ![Soot](https://github.com/user-attachments/assets/4cd2fb4d-19a7-415e-a1a1-daadd84edbda) | ![Burger](https://github.com/user-attachments/assets/5e95a8d2-fdc5-4aec-8dbb-9a6992c7aacb) | 195. Bhoo | 196. Celeste | 197. Sorren |
 
 Dogs 1:
 

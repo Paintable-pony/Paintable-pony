@@ -378,7 +378,7 @@ Phoenixes:
 
 | 388.  | 389.  | 390.  | 391.  | 392.  |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/21f2b3a9-1adb-4198-92a9-43dd162ca69b) | ![image](https://github.com/user-attachments/assets/c9438b78-6e52-4ebc-b5c3-43d8fe731991) | ![image](https://github.com/user-attachments/assets/4a38e1e4-dc5e-4d76-9a07-14244ee6b7b3) | ![image](https://github.com/user-attachments/assets/5077486d-6d54-483d-aca7-cfb7bdb5d95a) | 392.  |
+| ![388](https://github.com/user-attachments/assets/21f2b3a9-1adb-4198-92a9-43dd162ca69b) | ![389](https://github.com/user-attachments/assets/c9438b78-6e52-4ebc-b5c3-43d8fe731991) | ![390](https://github.com/user-attachments/assets/4a38e1e4-dc5e-4d76-9a07-14244ee6b7b3) | ![391](https://github.com/user-attachments/assets/5077486d-6d54-483d-aca7-cfb7bdb5d95a) | 392 |
 
 Capybaras:
 

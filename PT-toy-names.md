@@ -288,7 +288,7 @@ Birds 2:
 
 | 270.  | 271.  | 272.  | 273.  | 274.  |
 |---|---|---|---|---|
-| 270.  | 271.  | 272.  | 273.  | 274.  |
+| ![image](https://github.com/user-attachments/assets/b5ef2022-90ab-4d4f-a102-362ed3ae1f59) | ![image](https://github.com/user-attachments/assets/7b909cac-a809-4651-a962-2720c3aafb6e) | ![image](https://github.com/user-attachments/assets/5e0774a5-47a7-40e6-a8d8-4e609d89cdc2) | ![image](https://github.com/user-attachments/assets/5ef169e5-83b5-4fad-be8c-edf179c7a1c4) | ![image](https://github.com/user-attachments/assets/bc70c8b1-54bf-4695-a589-07756a27c5d3) |
 
 Dogs 2:
 
@@ -300,85 +300,85 @@ Dragons:
 
 | 279.  | 280.  | 281.  | 282.  | 283.  |
 |---|---|---|---|---|
-| 279.  | 280.  | 281.  | 282.  | 283.  |
+| ![image](https://github.com/user-attachments/assets/ac8a5aa1-1afa-4f59-9032-482945f6bf29) | ![image](https://github.com/user-attachments/assets/d5393fcc-0a3a-4103-a07f-a8e30374a061) | ![image](https://github.com/user-attachments/assets/841b0e29-690e-40c1-ae3f-9906e630c144) | ![image](https://github.com/user-attachments/assets/3d05d0bf-dc87-4b60-b0dd-fafaf37e9641) | ![image](https://github.com/user-attachments/assets/e5f1295a-4ff7-472a-b8e4-7709ce1316a3) |
 | 284.  | 285.  | 286.  | 287.  | 288.  |
-| 284.  | 285.  | 286.  | 287.  | 288.  |
+| ![image](https://github.com/user-attachments/assets/0dc1377c-6f89-457c-a94f-429f804e9be9) | ![image](https://github.com/user-attachments/assets/c0e67551-d8bc-4793-8aaa-e710f0de6bba) | ![image](https://github.com/user-attachments/assets/d05d4e10-2166-4bd5-8a33-6283b8678703) | ![image](https://github.com/user-attachments/assets/ec8b4d58-68af-4459-8486-00e8c2a66ec4) | ![image](https://github.com/user-attachments/assets/c1a8b23c-537f-4573-802f-e053a6a29a29) |
 | 289.  | 290.  | 291.  | 292.  | 293.  |
-| 289.  | 290.  | 291.  | 292.  | 293.  |
+| ![image](https://github.com/user-attachments/assets/929e68af-9c3f-4f02-94a4-dcd49c53cdf0) | ![image](https://github.com/user-attachments/assets/91e924f0-be14-4abb-8efe-417acd4258bb) | ![image](https://github.com/user-attachments/assets/4b860f6c-a6f7-4730-be64-47edf98a8bae) | ![image](https://github.com/user-attachments/assets/8dadaa69-f2b3-47bd-8b10-2f82e0cfe262) | ![image](https://github.com/user-attachments/assets/1590f86e-08a1-4a25-a7ff-5aaeccd9f910) |
 | 294.  |||||
-| 294.  |||||
+| ![image](https://github.com/user-attachments/assets/36696c78-23b8-4b28-8328-59ed7d31af38) |||||
 
 Goats:
 
 | 295.  | 296.  | 297.  | 298.  | 299.  |
 |---|---|---|---|---|
-| 295.  | 296.  | 297.  | 298.  | 299.  |
+| ![image](https://github.com/user-attachments/assets/ed1224e1-93e8-44f8-a205-e84d97b62b78) | ![image](https://github.com/user-attachments/assets/d7a49dbd-1fe2-47fc-9e91-387a1e4f6a15) | ![image](https://github.com/user-attachments/assets/dc77f530-a141-4388-b2b0-500df6b0d287) | ![image](https://github.com/user-attachments/assets/3f28a136-67ab-4285-8ef7-7f60cd21dedd) | ![image](https://github.com/user-attachments/assets/0ff8c49e-9d56-4556-a978-33d2efc51fc7) |
 | 300.  | 301.  | 302.  | 303.  | 304.  |
-| 300.  | 301.  | 302.  | 303.  | 304.  |
+| ![image](https://github.com/user-attachments/assets/22638ad0-c90d-49e5-8f0d-cd40f910f3b0) | ![image](https://github.com/user-attachments/assets/93c8955a-aff5-431b-8e68-6fedf3d4b213) | ![image](https://github.com/user-attachments/assets/995e776e-b1fc-4fc4-9a39-39153947f58c) | ![image](https://github.com/user-attachments/assets/bd36c53d-c8e9-4688-a462-dfc1cb91edb8) | ![image](https://github.com/user-attachments/assets/62a98de5-820c-40a5-9460-b3e45c72caf6) |
 | 305.  | 306.  | 307.  |||
-| 305.  | 306.  | 307.  |||
+| ![image](https://github.com/user-attachments/assets/2fcb32a0-a10b-4774-aae3-371403bf8f97) | ![image](https://github.com/user-attachments/assets/49e7d9ff-8821-4bd4-a83f-8ba93d0e7033) | ![image](https://github.com/user-attachments/assets/0dac69db-fb35-40c6-9b94-78f2ee7e4dab) |||
 
 Octopi:
 
 | 308.  | 309.  | 310.  | 311.  | 312.  |
 |---|---|---|---|---|
-| 308.  | 309.  | 310.  | 311.  | 312.  |
+| ![image](https://github.com/user-attachments/assets/1fdf665c-22cf-49cb-a66b-156bce899370) | ![image](https://github.com/user-attachments/assets/33856726-6adb-4132-aaf9-5ddebe0552da) | ![image](https://github.com/user-attachments/assets/02ef1f28-5dfa-4dc0-89b8-8cb830c324a1) | ![image](https://github.com/user-attachments/assets/f91d5181-4544-484f-bc68-4b397e0db67d) | ![image](https://github.com/user-attachments/assets/5386c91d-51a3-4727-83ec-dc509c45ba3c) |
 | 313.  | 314.  ||||
-| 313.  | 314.  ||||
+| ![image](https://github.com/user-attachments/assets/2be96386-ada3-4381-af37-e73e65e96d64) | ![image](https://github.com/user-attachments/assets/1c155304-28ce-4f4d-bc0a-ed110a7011a2) ||||
 
 Sharks:
 
 | 315.  | 316.  | 317.  | 318.  |
 |---|---|---|---|
-| 315.  | 316.  | 317.  | 318.  |
+| ![image](https://github.com/user-attachments/assets/898896ee-669f-4c43-822d-a612a8f08d99) | ![image](https://github.com/user-attachments/assets/d1866698-0b35-45a3-9632-1269de3f40d6) | ![image](https://github.com/user-attachments/assets/4038a681-0934-42ff-9428-4c2a27aef0e5) | ![image](https://github.com/user-attachments/assets/ae405ad3-9f8a-41c6-8d2e-83c63e14d2c7) |
 
 Moths:
 
 | 319.  | 320.  | 321.  | 322.  | 323.  |
 |---|---|---|---|---|
-| 319.  | 320.  | 321.  | 322.  | 323.  |
+| ![image](https://github.com/user-attachments/assets/c61aed16-3ad4-4a87-af74-47f0358e6a5a) | ![image](https://github.com/user-attachments/assets/353cffd9-ae00-4899-bd04-3df9b02a106a) | ![image](https://github.com/user-attachments/assets/36fcc7b2-3530-4f2a-8a98-f2f3c4cddce7) | ![image](https://github.com/user-attachments/assets/7f287a88-c29d-44fc-a3d0-34d94f77b414) | ![image](https://github.com/user-attachments/assets/3d477756-ef2b-422a-aae5-60474d4ed5a2) |
 | 324.  | 325.  ||||
-| 324.  | 325.  ||||
+| ![image](https://github.com/user-attachments/assets/04434639-1f46-43c9-b00c-017b02b96194) | ![image](https://github.com/user-attachments/assets/c4ca156c-4285-48af-bd99-4db017ce5753) ||||
 
 Dragonflies:
 
 | 326.  | 327.  | 328.  | 329.  | 330.  |
 |---|---|---|---|---|
-| 326.  | 327.  | 328.  | 329.  | 330.  |
+| ![image](https://github.com/user-attachments/assets/feeefe15-8381-48c6-b6c8-b744fb2e46cf) | ![image](https://github.com/user-attachments/assets/95575ff9-5765-497c-a563-105a3316cdf5) | ![image](https://github.com/user-attachments/assets/c4853d3f-35b2-4c5d-b63b-68049f58d4c8) | ![image](https://github.com/user-attachments/assets/5f1a44d7-2532-4adc-8ccb-c4eeae1342a4) | ![image](https://github.com/user-attachments/assets/de22203f-3c19-491c-b279-fa0bc9c0e937) |
 | 331.  | 332.  ||||
-| 331.  | 332.  ||||
+| ![image](https://github.com/user-attachments/assets/5a23bc55-f4f7-416e-b5ba-13ea11844495) | ![image](https://github.com/user-attachments/assets/ea7c0cc9-09a5-4e28-87ed-472c0e1b77e1) ||||
 
 Beetles:
 
 | 333.  | 334.  | 335.  | 336.  | 337.  |
 |---|---|---|---|---|
-| 333.  | 334.  | 335.  | 336.  | 337.  |
+| ![image](https://github.com/user-attachments/assets/81055c11-00f8-47cc-ac79-705df80f69cf) | ![image](https://github.com/user-attachments/assets/f8948c4e-2d04-46e3-ac75-3767ae9ed774) | ![image](https://github.com/user-attachments/assets/ac3bb769-0a07-4c2c-ba37-59bea0f5e022) | ![image](https://github.com/user-attachments/assets/2b1db834-9564-46d2-93dc-ddf2c9850339) | ![image](https://github.com/user-attachments/assets/203d78f3-511d-4531-ac12-3481e58067cf) |
 | 338.  | 339.  ||||
-| 338.  | 339.  ||||
+| ![image](https://github.com/user-attachments/assets/f76fce10-ed57-4dc9-b7ad-66093f6f3df2) | ![image](https://github.com/user-attachments/assets/df80578b-417b-4af2-9cc2-24587db857a0) ||||
 
 Butterflies:
 
 | 340.  | 341.  | 342.  | 343.  | 344.  |
 |---|---|---|---|---|
-| 340.  | 341.  | 342.  | 343.  | 344.  |
+| ![image](https://github.com/user-attachments/assets/3f8a5eab-4977-4c13-ae34-01d5ce09df8d) | ![image](https://github.com/user-attachments/assets/db46bde8-6929-4a9e-94cd-ec5d7a6d2a88) | ![image](https://github.com/user-attachments/assets/8f3b07f1-b303-4518-826f-1240882227fb) | ![image](https://github.com/user-attachments/assets/0f8aaa70-4f9a-4e2b-89e3-15269d37c92d) | ![image](https://github.com/user-attachments/assets/644254c7-379c-486f-9dbf-007d948a7eea) |
 | 345.  | 346.  | 347.  |||
-| 345.  | 346.  | 347.  |||
+| ![image](https://github.com/user-attachments/assets/25326eaa-6a8e-4de7-b2f6-8aa58ec50f76) | ![image](https://github.com/user-attachments/assets/b6ebdd2b-abb1-4eb1-ba85-48cc7a0e2287) | ![image](https://github.com/user-attachments/assets/84f7ca0a-9416-4708-a122-24f002ca9c34) |||
 
 Turtles:
 
 | 376.  | 377.  | 378.  | 379.  | 380.  |
 |---|---|---|---|---|
-| 376.  | 377.  | 378.  | 379.  | 380.  |
+| ![image](https://github.com/user-attachments/assets/927a892b-748a-4024-a22f-93963f7efc5d) | ![image](https://github.com/user-attachments/assets/90637ac5-028f-4cd9-b983-d2d396ced099) | ![image](https://github.com/user-attachments/assets/2f2412f3-a883-4d5b-bcbc-4cab46613f3b) | ![image](https://github.com/user-attachments/assets/6d98cbea-55dd-4ce4-a819-c775af999a7c) | ![image](https://github.com/user-attachments/assets/31620b6c-1cf5-45f1-b72c-59cf1da73b6f) |
 | 381.  | 382.  | 383.  | 384.  | 385.  |
-| 381.  | 382.  | 383.  | 384.  | 385.  |
+| ![image](https://github.com/user-attachments/assets/44678618-4a64-4bf4-923a-d2a2dda6431f) | ![image](https://github.com/user-attachments/assets/38b1e6af-8d84-475c-81d6-fbe0e58888c7) | ![image](https://github.com/user-attachments/assets/59a04ddb-fea9-4b2b-b020-1713c7cc349e) | ![image](https://github.com/user-attachments/assets/4c94eb73-b95c-4e34-ba99-fd4a8ed0fdc8) | ![image](https://github.com/user-attachments/assets/9bd51c15-7a02-448d-a3c7-1a7bcf4788b2) |
 | 386.  | 387.  ||||
-| 386.  | 387.  ||||
+| ![image](https://github.com/user-attachments/assets/9e3cd5ce-fc9f-486b-8e21-bc25de94238d) | ![image](https://github.com/user-attachments/assets/b6017d54-c804-4bae-8186-d68b32c4c9f0) ||||
 
 Phoenixes:
 
 | 388.  | 389.  | 390.  | 391.  | 392.  |
 |---|---|---|---|---|
-| 388.  | 389.  | 390.  | 391.  | 392.  |
+| ![image](https://github.com/user-attachments/assets/21f2b3a9-1adb-4198-92a9-43dd162ca69b) | ![image](https://github.com/user-attachments/assets/c9438b78-6e52-4ebc-b5c3-43d8fe731991) | ![image](https://github.com/user-attachments/assets/4a38e1e4-dc5e-4d76-9a07-14244ee6b7b3) | ![image](https://github.com/user-attachments/assets/5077486d-6d54-483d-aca7-cfb7bdb5d95a) | 392.  |
 
 Capybaras:
 
